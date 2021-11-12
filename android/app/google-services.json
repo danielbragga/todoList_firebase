@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "897699069854",
+    "project_id": "fir-todo-3cfd8",
+    "storage_bucket": "fir-todo-3cfd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897699069854:android:1c713ea4779f9bb657a08f",
+        "android_client_info": {
+          "package_name": "com.daniel.flutter_application_todolist_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897699069854-mg0oimm5b12s0jsoh7qfv1lld47bevgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIF0adPLQrQ_CCZ9tbs2K8ZzMWBLLLzMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897699069854-mg0oimm5b12s0jsoh7qfv1lld47bevgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
